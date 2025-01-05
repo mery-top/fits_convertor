@@ -28,11 +28,3 @@ You can install them using:
 pip install astropy numpy matplotlib
 ```
 
-## Usage
-
-### Conversion Steps
-
-1. Place your `.fits` file in the same directory as `fits.py`.
-2. Run the script:
-   ```bash
-   python fits.py <your_fits_file.fits>
