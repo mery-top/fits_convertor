@@ -3,11 +3,11 @@
 **FITS Converter** is a Python-based utility to convert satellite images in the **FITS (Flexible Image Transport System)** format into visually interpretable **PNG images**. The tool includes functionality for RGB coloring, image enhancement, and graph generation for detailed data visualization.
 
 ---
-##How to Use
+## How to Use
 
 
 ```bash
-Change the file name to the required file
+file = "the required file name/path"
 ```
 ___
 ## Requirements
